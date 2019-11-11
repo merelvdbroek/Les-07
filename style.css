@@ -1,0 +1,134 @@
+body{
+    margin:0;
+    font-family:sans-serif;
+}
+
+.top{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-top: 2%;
+}
+
+#eindopdracht{
+    font-weight: lighter;
+    font-size: 15px;
+    margin: 0;
+}
+
+#naam{
+    font-weight: lighter;
+    font-size: 15px; 
+    margin: 0;
+}
+
+.reflection{
+    margin-top: 4cm;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+.titel{
+    box-shadow: inset 0 -10px 0 #fff, inset 0 -25px 0 #a8becc;
+    font-weight: 900;
+    font-size: 70px;
+    font-weight: normal;
+}
+
+#content{
+    margin-top: 30px;
+    max-width: 400px;
+    font-size: 16px;
+}
+
+#profielfoto{
+    float: right;
+}
+
+.actionpoints{
+    margin-top: 4cm;
+    background: #d5c4be;
+}
+
+#actiepunten{
+    padding: 7%;
+}
+
+.inspiration{
+    margin-top: 4cm;
+    margin-right: 8%;
+}
+
+#inspotekst{
+    box-shadow: inset 0 -10px 0 #fff, inset 0 -25px 0 #a8becc;
+    font-weight: 900;
+    font-size: 60px;
+    max-width: 660px;
+    font-weight: normal;
+    transform: rotate(-90deg);
+    margin-top: 4cm;
+    float: left;
+}
+
+.inspophotos{
+    color: #a8a8a7;
+    font-size: 16px;
+}
+
+#csstags{
+    padding: 1cm;
+    float: left;
+}
+
+#csstagsT{
+    float: right;
+    max-width: 400px;
+    margin-right: 7cm;
+    margin-top: 4cm;
+}
+
+#portfolio{
+    padding: 1cm;
+    float: right;
+    margin-right: 30%;
+}
+
+#portfolioT{
+    float: left;
+    max-width: 400px;
+    margin-left: 7cm;
+    margin-top: 4cm;
+}
+
+#button{
+   padding: 1cm; 
+   float: left;
+    margin-left: 30%;
+}
+
+#buttonT{
+    float: right;
+    max-width: 400px;
+    margin-right: 7cm;
+    margin-top: 2.5cm;
+}
+
+
+#htmltags{
+    padding: 1cm;
+    float: right;
+    margin-right: 30%;
+}
+
+#htmltagsT{
+    float: left;
+    max-width: 400px;
+    margin-left: 7cm;
+    margin-top: 4cm;
+}
+
+
+
+
